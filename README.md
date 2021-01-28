@@ -1,2 +1,1 @@
-# reactFirebaseLogin
-React and firebase authentication
+added react components: landing page, Sign up and Log in.
